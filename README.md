@@ -53,9 +53,11 @@ It demonstrates hands-on experience in **Python, SQL, machine learning, feature 
 - Deploy prediction models as a **web app** using Streamlit or Flask.
 
 ---
-
 ## Author
 **Vaishnavi N** – Final Year Computer Science & Engineering (AI & ML Honours)  
-- LinkedIn: [Vaishnavi N]((https://linkedin.com/in/vaishnavi-sabapathi))  
-- GitHub: [Vaishnavi GitHub]((https://github.com/Vaishnavisabapathi))  
-- Kaggle: [Vaishnavi Kaggle]((https://www.kaggle.com/vaishnavisabapathi))
+- LinkedIn: [Vaishnavi N]([your-linkedin-link](https://linkedin.com/in/vaishnavi-sabapathi))  
+- GitHub: [Vaishnavi GitHub]([your-github-link](https://github.com/Vaishnavisabapathi))  
+- Kaggle: [Vaishnavi Kaggle]([your-kaggle-link](https://www.kaggle.com/vaishnavisabapathi))
+
+
+
