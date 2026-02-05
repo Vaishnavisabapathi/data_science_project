@@ -55,9 +55,8 @@ It demonstrates hands-on experience in **Python, SQL, machine learning, feature 
 ---
 ## Author
 **Vaishnavi N** – Final Year Computer Science & Engineering (AI & ML Honours)  
-- LinkedIn: [Vaishnavi N]([your-linkedin-link](https://linkedin.com/in/vaishnavi-sabapathi))  
-- GitHub: [Vaishnavi GitHub]([your-github-link](https://github.com/Vaishnavisabapathi))  
-- Kaggle: [Vaishnavi Kaggle]([your-kaggle-link](https://www.kaggle.com/vaishnavisabapathi))
+
+
 
 
 
